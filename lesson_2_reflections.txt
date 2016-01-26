@@ -1,0 +1,2 @@
+it's create a empty folder named .git. To store the metadatas.
+There is a place where keep de log of changes that i've done in the file. It gives me a bigger integrity operation.
