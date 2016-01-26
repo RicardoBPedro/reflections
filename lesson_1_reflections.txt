@@ -1,0 +1,7 @@
+that've helped me a lot.
+It makes me really a efficient programmer.
+Save manually is the best choise because you can commits as you need.
+Because off the use case. As a development repository it's crucial to keep the integrity of the code.
+I must be in the folder of the repository and use git lot to see all logs and use git diff id1 id2 to se the differences.
+I can fix the bug easely.
+I'm excited to use it.
