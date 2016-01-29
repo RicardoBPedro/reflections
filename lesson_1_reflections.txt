@@ -1,7 +1,30 @@
-that've helped me a lot.
-It makes me really a efficient programmer.
-Save manually is the best choise because you can commits as you need.
-Because off the use case. As a development repository it's crucial to keep the integrity of the code.
-I must be in the folder of the repository and use git lot to see all logs and use git diff id1 id2 to se the differences.
-I can fix the bug easely.
-I'm excited to use it.
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+ - That've helped me a lot.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+ - It makes me really a efficient programmer.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+ - Save manually is the best choise because you can commits as you need.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+ - Because off the use case. As a development repository it's crucial to keep the integrity of the code.
+
+How can you use the commands git log and git diff to view the history of files?
+ - I must be in the folder of the repository and use git lot to see all logs and use git diff id1 id2 to se the differences.
+ 
+How might using version control make you more confident to make changes that could break something?
+ - I can fix the bug easely.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+ -I'm excited to use it in my own project.
+
+Commands:
+q = exit git log!
+git log  = List the commits and show which files have changed
+git log --stat  = Show addition information about the commits
+git diff id1 id2  = Compare two commits
+git clone = Create a local copy/clone from the repository
+git config --global color.ui auto = get colored diff output
+git checkout = Shows a previous version of the file. This is not a checkout to edit like in SVN or TFS!
