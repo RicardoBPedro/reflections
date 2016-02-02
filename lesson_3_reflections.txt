@@ -13,6 +13,9 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
  - Each one must modify a self and single code. It's easier to get a but and delay and it will be hard to build a quality software.  
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  - Well... It's useful when I'm afraid to break the code or to make tests.
+
  Commands:
 git remote  = Show all remote locations for the repository.
 git remote add origin url = Add a new remote location for the repository
